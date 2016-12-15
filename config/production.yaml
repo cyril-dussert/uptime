@@ -1,10 +1,10 @@
-url: 'http://uptime-uptime-test.kermit-beta.intraorange'
+url: 'http://uptime-uptime.kermit-beta.intraorange'
 
 mongodb:
-  server:   uptime-db
+  server:   mongodb
   database: uptime
   user:     mongouser
-  password: ${MONGO_PASSWORD}
+  password: lalamongpassword
   connectionString:       # alternative to setting server, database, user and password separately
 
 monitor:

@@ -323,7 +323,7 @@ parameters:
     description: "The URL of the repository with your application source code."
     displayName: "Git Repository URL"
     name: SOURCE_REPOSITORY_URL
-    value: "https://github.com/cyril-dussert/uptime.git"
+    value: "https://github.com/orangekmt/uptime.git"
   -
     description: "A secret string used to configure the Git webhook."
     displayName: "Git Webhook Secret"
